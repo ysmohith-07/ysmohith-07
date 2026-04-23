@@ -6,7 +6,7 @@
 
 # Yerramsetti Sai Mohith
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&width=580&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Systems+Developer+%40+Chella+Software;Data+Science+%40+IIT+Madras;Open+to+SWE+%26+AI+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&width=620&lines=Software+Developer+%40+Chella+Software;2%2B+Years+in+Low-Latency+Systems;1+Year+in+Data+Science+%26+ML;Full-Stack+%26+AI+Builder;Open+to+SWE+%26+AI+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,11 +20,14 @@
 
 ```ts
 const mohith = {
-  role      : "Full-Stack Developer & AI/ML Engineer",
-  company   : "Chella Software — performance-critical C systems for Indian stock exchange",
-  education : ["CS · IIIT Kancheepuram", "Data Science · IIT Madras"],
-  building  : "ZenTrack — cross-platform habit tracker (Flutter · Supabase · Riverpod)",
-  openTo    : ["Full-time SWE", "Full-time AI/ML", "AI-First Product Roles"],
+  role       : "Software Developer @ Chella Software, Madurai",
+  experience : {
+    lowLatency  : "2+ years — performance-critical systems for Indian stock exchange",
+    dataScience : "1 year  — ML pipelines, RAG systems & AI product development",
+  },
+  education  : ["CS · IIIT Kancheepuram", "Data Science · IIT Madras"],
+  building   : "ZenTrack — cross-platform habit tracker (Flutter · Supabase · Riverpod)",
+  openTo     : ["Full-time SWE", "Full-time AI/ML", "AI-First Product Roles"],
 };
 ```
 
@@ -51,7 +54,7 @@ const mohith = {
 [![Skills](https://skillicons.dev/icons?i=pytorch&theme=light)](https://skillicons.dev)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 **Tools**
 
@@ -67,46 +70,52 @@ const mohith = {
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Adaptive RAG System**
-Context-aware document retrieval with dynamic query routing and re-ranking.
+**📷 QR Code Generator**
+Fast, customizable QR code generator supporting URLs, text, and contact cards with live preview.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Repo →](https://img.shields.io/badge/View_Repo-github.com-4f46e5?style=flat-square&logo=github&logoColor=white)](https://github.com/ysmohith-07)
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Ad Campaign Diagnostics Platform**
-AI-powered marketing tool for diagnosing and optimizing ad performance.
+**⚡ Local SLM Benchmarking**
+Benchmarking suite for evaluating small language models locally — speed, accuracy & resource usage.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+[![Repo →](https://img.shields.io/badge/View_Repo-github.com-4f46e5?style=flat-square&logo=github&logoColor=white)](https://github.com/ysmohith-07)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+**🎙️ Local Voice Assistant**
+Fully offline voice assistant powered by local SLMs — speech-to-text, reasoning & TTS on-device.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
+![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+
+[![Repo →](https://img.shields.io/badge/View_Repo-github.com-4f46e5?style=flat-square&logo=github&logoColor=white)](https://github.com/ysmohith-07)
+
+</td>
+<td width="50%" valign="top">
+
 **🌿 ZenTrack — Habit Tracker**
-Cross-platform habit tracker with 10-level gamification and streak sync.
+Cross-platform habit tracker with 10-level gamification, streaks & social accountability.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-[![Live →](https://img.shields.io/badge/Live_Demo-social--streak--sync.lovable.app-4f46e5?style=flat-square)](https://social-streak-sync.lovable.app)
-
-</td>
-<td width="50%" valign="top">
-
-**💬 WhatsApp Commerce AI**
-Conversational commerce pipeline for product discovery and checkout via WhatsApp.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+[![Live →](https://img.shields.io/badge/Live_Demo-lovable.app-4f46e5?style=flat-square)](https://social-streak-sync.lovable.app)
 
 </td>
 </tr>
@@ -149,18 +158,3 @@ Conversational commerce pipeline for product discovery and checkout via WhatsApp
 <div align="center">
 <sub>Built with curiosity. Shipped with intent.</sub>
 </div>
-
-<!--
-**ysmohith-07/ysmohith-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
