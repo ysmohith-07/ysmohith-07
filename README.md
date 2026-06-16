@@ -32,7 +32,7 @@
 ```ts
 {
   location   : "Madurai, Tamil Nadu, IN",
-  experience : "2+ yrs low-latency C for stock exchange infra",
+  experience : "2+ yrs low-latency for stock exchange infra",
   ml_and_ai  : "1 yr — pipelines, RAG systems, local SLMs",
   education  : ["CS @ IIIT Kancheepuram", "DS @ IIT Madras"],
   status     : "◉ open to SWE / AI / product roles",
